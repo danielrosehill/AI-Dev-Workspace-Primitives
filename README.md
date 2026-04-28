@@ -26,6 +26,7 @@ Index of development-repository primitives — root-level `UPPERCASE.md` files t
 | [STYLE.md](https://github.com/danielrosehill/STYLE.md) | Brand palette, fonts, assets, logos |
 | [SCAFFOLDS.md](https://github.com/danielrosehill/SCAFFOLDS.md) | Preferred scaffold or reference to a scaffolds library |
 | [DOCS.md](https://github.com/danielrosehill/DOCS.md) | Documentation style guide and writing preferences |
+| [GROUNDING.md](https://github.com/danielrosehill/GROUNDING.md) | Whitelist of authoritative URLs for grounding (official docs, canonical specs) |
 | `CONTEXT.md` (pre-existing) | Loose, free-form contextual data for the repo |
 
 ## Notes
