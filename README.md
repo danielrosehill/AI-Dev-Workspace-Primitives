@@ -30,6 +30,12 @@ Index of development-repository primitives — root-level `UPPERCASE.md` files t
 | [SECRETS.md](https://github.com/danielrosehill/SECRETS.md) | Secrets manifest — names, vault locations, retrieval CLI, rotation posture (never values) |
 | `CONTEXT.md` (pre-existing) | Loose, free-form contextual data for the repo |
 
+## Template
+
+A ready-to-use GitHub template repo seeded with every primitive (as fillable stubs) lives at:
+
+**[AI-Dev-Repo-Template-1](https://github.com/danielrosehill/AI-Dev-Repo-Template-1)** — click *Use this template* to scaffold a new AI-assisted project with all primitives pre-populated as guided placeholders.
+
 ## Notes
 
 - `MEMORY.md` is intentionally omitted. Development decisions are recorded in `PROJECT.md` rather than a separate memory file.
